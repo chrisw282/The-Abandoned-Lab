@@ -19,3 +19,10 @@ These are the wads that will be used for the map. I wanted to find textures that
 
 # Blockout Walkthrough Video
 
+This was the very first version of the map I made. It's a lot bigger than the final version of the map and had much room for improvement. In this first version, I originally planned for there to be a fountain in the middle section of the map, but it was scrapped later on because I couldn't come up with any interesting ways to make it flow with the rest of the level. The map contained a big middle part, with multiple rooms that connected with each other, as well as an elevated section that players can walk up and access. This early version of the map contained many rooms and pathways which resulted in the map being too big. In the finalized version of the map, some of the unnecessary rooms and paths have been removed/scaled down.
+
+https://github.com/user-attachments/assets/6dca7557-236c-479b-a926-5dbb61056c31
+
+
+
+

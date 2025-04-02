@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/6dca7557-236c-479b-a926-5dbb61056c31
 
 # Texturing
 
-Immersion and Theme-
+Immersion and Theme:
 
 I wanted to use textures that would most likely be seen in a labratory.
 
@@ -35,7 +35,7 @@ I wanted to use textures that would most likely be seen in a labratory.
 
 This texture of a bookshelf is evoking the theme because it's something you'd see inside a lab. Another way it's evoking the theme is that the bookshelf is leaning on the wall instead of sitting straight because no one has been there for years to keep the lab maintained.
 
-Guiding and Orientation-
+Guiding and Orientation:
 
 I wanted to use appealing textures to guide players to certain areas that can be reached in more than one way.
 
@@ -43,6 +43,23 @@ I wanted to use appealing textures to guide players to certain areas that can be
 
 I decided to once again use these bookshelfs to evoke the abandoned theme, but I placed them like this so the player can get the idea to jump up on them to access the elevated portion.
 
+# Lighting Markdown
+
+Immersion and Theme: 
+
+With a theme like this, lighting is pretty important because you have to know how much light is enough. I chose to light up the most important parts of the map.
+
+![Screenshot 2025-04-02 140715](https://github.com/user-attachments/assets/8de3be79-9ca7-4c8e-9f92-dcdacf823ba7)
+
+This is one of the main rooms and since the level needed some lighting, I wanted the most important rooms to have at least some light. It will make the player think that this room was once used as the main room for experiments.
+
+Guiding and Orientation: 
+
+I wanted to use lighting to guide players into the important sections of the map, but I also wanted to use dark spaces to hide secrets as well.
+
+![Screenshot 2025-04-02 141547](https://github.com/user-attachments/assets/5df9ee37-f36a-4b6c-ad35-95b74eaec4ff)
+
+In this dark spot is a armor power up. It's completely hidden in the dark and the only way you'll know that it's there when you play for the first time is if you choose to walk into the dark spot, which players will curiously do because it's one of the only spots in the map that have no light.
 
 
 

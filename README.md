@@ -25,6 +25,22 @@ This was the very first version of the map I made. It's a lot bigger than the fi
 
 https://github.com/user-attachments/assets/6dca7557-236c-479b-a926-5dbb61056c31
 
+# Playtesting
+
+After the first playtest, I got some very useful data and opinions about the overall size of the map as well as the lack of cover. These were the main concerns that I decided to focus on in my first iteration. The map size has been reduced and I've created more opportunities for cover in all of the rooms. 
+
+![Image](https://github.com/user-attachments/assets/7816d913-9284-40f8-909c-ba3d350b3236)
+
+
+After the second test, the responses were a lot better, but there were still improvements to be made. Testers liked how much smaller in scale the map was, but now the next issue was that most areas on it felt too open. The build for this second test included weapons and armor. There were concerns about weapon placement and the amount of armor power ups. The last issue was the fact that players were most likely spawned into rooms with people in them after they died. These were all things that I decided to fix up in the next build of the map, but overall, enjoyment for the map was much higher according to the data I got.
+
+![Image](https://github.com/user-attachments/assets/fc447119-7d6c-4723-a131-b72e7780f9c2)
+
+
+The third test is the lastest test of the map and it revolved around the lastest version of the map. With this version, more options for cover was made, textures were applied, weapon placement was adjusted, lighting was included, and rooms were slightly adjusted for better game flow. This test went slightly better than the previous one, with enjoyment increasing. There were still issues with spawns not feeling fair and the open-ness of some rooms, but the map was much better to play in and testers were able to tell the theme by looking at the textures and lighting. A major takeaway from these tests tell me that something may need to be changed in one of the rooms to help with the issue with unfair spawns. An alternative solution would probably be either spreading them out or removing some completely. Another takeaway would be to find some way to fill up space in the map to make it feel less open. I sort of did this with the bookshelfs, but further improvements could be made.
+
+![Image](https://github.com/user-attachments/assets/66789490-554c-4fac-99cf-0f35afca488c)
+
 # Texturing
 
 Immersion and Theme:
